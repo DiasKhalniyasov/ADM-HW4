@@ -9,5 +9,6 @@ The repository contains the following files:
 
 Group #25
 
-Dias Khalniyasov
+Dias Khalniyasov https://github.com/DiasKhalniyasov/
+
 Vaibhav Singh Tomar
